@@ -13,7 +13,7 @@
   ## 👀 About Me
   #### :raising_hand: I am a Front Developer from South Korea.<br/>
   #### :fire: I aim to become a Full Stack Developer <br/>
-  #### :mortar_board: Department of Gachon University, Gachon University(GCU)
+  #### :mortar_board: Department of Computer Engineering, Gachon University(GCU)
   <br/>
   <br/>
   
