@@ -11,9 +11,9 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### :raising_hand: I am a Front Developer from South Korea.<br/>
+  #### :fire: I aim to become a Full Stack Developer <br/>
+  #### :mortar_board: Department of Gachon University, Gachon University(GCU)
   <br/>
   <br/>
   
@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!-- Flutter -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+  <!-- Dart -->
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
   <br/>
   
   ### Library
